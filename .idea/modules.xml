@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/AIT HomeWorks.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/AIT HomeWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/AIT Lessons.iml" filepath="$PROJECT_DIR$/AIT Lessons/AIT Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Saturday Project/AIT Saturday Project.iml" filepath="$PROJECT_DIR$/AIT Saturday Project/AIT Saturday Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/ArrayList Methods/ArrayList Methods.iml" filepath="$PROJECT_DIR$/Other/ArrayList Methods/ArrayList Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Saturday Project/CSV Reader/CSV Reader.iml" filepath="$PROJECT_DIR$/AIT Saturday Project/CSV Reader/CSV Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Fun/Chicken Game 1.0/Chicken Game 1.0.iml" filepath="$PROJECT_DIR$/For Fun/Chicken Game 1.0/Chicken Game 1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Client-Server/Client-Server.iml" filepath="$PROJECT_DIR$/Other/Client-Server/Client-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeWars/CodeWars.iml" filepath="$PROJECT_DIR$/CodeWars/CodeWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingBat/CodingBat.iml" filepath="$PROJECT_DIR$/CodingBat/CodingBat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Comparation/Comparation.iml" filepath="$PROJECT_DIR$/Other/Comparation/Comparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/December HW/December HW.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/December HW/December HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Enum/Enum.iml" filepath="$PROJECT_DIR$/Other/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Februar Lessons.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Februar Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/February HW.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/February HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Fun/For Fun.iml" filepath="$PROJECT_DIR$/For Fun/For Fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-11/HW 2022-12-11.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-11/HW 2022-12-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-12/HW 2022-12-12.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-12/HW 2022-12-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-14/HW 2022-12-14.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-14/HW 2022-12-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-18/HW 2022-12-18.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/December HW/HW 2022-12-18/HW 2022-12-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-09/HW 2023-01-09.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-09/HW 2023-01-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-10/HW 2023-01-10.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-10/HW 2023-01-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-11/HW 2023-01-11.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-11/HW 2023-01-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-12/HW 2023-01-12.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-12/HW 2023-01-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-13/HW 2023-01-13.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-13/HW 2023-01-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-16/HW 2023-01-16.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-16/HW 2023-01-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-17/HW 2023-01-17.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-17/HW 2023-01-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-23/HW 2023-01-23.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-23/HW 2023-01-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-25/HW 2023-01-25.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-25/HW 2023-01-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-26/HW 2023-01-26.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-26/HW 2023-01-26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-27/HW 2023-01-27.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/HW 2023-01-27/HW 2023-01-27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-01/HW 2023-02-01.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-01/HW 2023-02-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-03/HW 2023-02-03.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-03/HW 2023-02-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-06/HW 2023-02-06.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-06/HW 2023-02-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-08/HW 2023-02-08.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-08/HW 2023-02-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-10/HW 2023-02-10.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-10/HW 2023-02-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-12/HW 2023-02-12.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-12/HW 2023-02-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-13/HW 2023-02-13.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/February HW/HW 2023-02-13/HW 2023-02-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/Other/HashCode/HashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Other/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA Learning.iml" filepath="$PROJECT_DIR$/JAVA Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Januar Lessons.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Januar Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT HomeWorks/January HW/January HW.iml" filepath="$PROJECT_DIR$/AIT HomeWorks/January HW/January HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Other/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-09/Lesson 2023-01-09.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-09/Lesson 2023-01-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-10/Lesson 2023-01-10.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-10/Lesson 2023-01-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-11/Lesson 2023-01-11.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-11/Lesson 2023-01-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-12/Lesson 2023-01-12.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-12/Lesson 2023-01-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-16/Lesson 2023-01-16.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-16/Lesson 2023-01-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-23/Lesson 2023-01-23.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-23/Lesson 2023-01-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-24/Lesson 2023-01-24.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-24/Lesson 2023-01-24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-25/Lesson 2023-01-25.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-25/Lesson 2023-01-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-26/Lesson 2023-01-26.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-26/Lesson 2023-01-26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-27/Lesson 2023-01-27.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-27/Lesson 2023-01-27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-30/Lesson 2023-01-30.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-30/Lesson 2023-01-30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-31/Lesson 2023-01-31.iml" filepath="$PROJECT_DIR$/AIT Lessons/Januar Lessons/Lesson 2023-01-31/Lesson 2023-01-31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-01/Lesson 2023-02-01.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-01/Lesson 2023-02-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-02/Lesson 2023-02-02.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-02/Lesson 2023-02-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-03/Lesson 2023-02-03.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-03/Lesson 2023-02-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-06/Lesson 2023-02-06.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-06/Lesson 2023-02-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-13/Lesson 2023-02-13.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-13/Lesson 2023-02-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-15/Lesson 2023-02-15.iml" filepath="$PROJECT_DIR$/AIT Lessons/Februar Lessons/Lesson 2023-02-15/Lesson 2023-02-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/Other/LinkedHashSet/LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/LinkedList lesson/LinkedList lesson.iml" filepath="$PROJECT_DIR$/Other/LinkedList lesson/LinkedList lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Map interface/Map interface.iml" filepath="$PROJECT_DIR$/Other/Map interface/Map interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIT Saturday Project/My CSV Reader/My CSV Reader.iml" filepath="$PROJECT_DIR$/AIT Saturday Project/My CSV Reader/My CSV Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer WeatherData/Observer WeatherData.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer WeatherData/Observer WeatherData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Polymorphism lesson/Polymorphism lesson.iml" filepath="$PROJECT_DIR$/Other/Polymorphism lesson/Polymorphism lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Queue Deque/Queue Deque.iml" filepath="$PROJECT_DIR$/Other/Queue Deque/Queue Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/Random/Random.iml" filepath="$PROJECT_DIR$/Utils/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Stack/Stack.iml" filepath="$PROJECT_DIR$/Other/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Static/Static.iml" filepath="$PROJECT_DIR$/Other/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy SimUDuck/Strategy SimUDuck.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy SimUDuck/Strategy SimUDuck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/Timer/Timer.iml" filepath="$PROJECT_DIR$/Utils/Timer/Timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Other/TreeSet/TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/Utils.iml" filepath="$PROJECT_DIR$/Utils/Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Fun/VideoSpeed Converter/VideoSpeed Converter.iml" filepath="$PROJECT_DIR$/For Fun/VideoSpeed Converter/VideoSpeed Converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/Writer_Reader/Writer_Reader.iml" filepath="$PROJECT_DIR$/Utils/Writer_Reader/Writer_Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_temp/_temp.iml" filepath="$PROJECT_DIR$/_temp/_temp.iml" />
+    </modules>
+  </component>
+</project>
